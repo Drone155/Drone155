@@ -1,7 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/df/fd/77/dffd7761d0d86ff0d8ef90e5c285fe96.gif)
+<div align="center">
+  <img src="https://clan.fastly.steamstatic.com/images/30941067/94cbceb21a744115513a208d28d14b6856e8311d.gif" alt="MasterHead" width="1200">
+</div>
 <h1 align="center">Hi 👋, I'm Sayandeb Maity</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif")
+<div align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3psNnN5cDd0dmNiNTZkcG1xeDNkbDlzcnJodnkwZHc4ZzEwN2drNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding" width="400">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drone155&label=Profile%20views&color=0e75b6&style=flat" alt="drone155" /> </p>
 
