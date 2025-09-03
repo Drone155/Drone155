@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drone155" alt="drone155" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Android App Dev**
+- 👯 I’m looking to collaborate on *Android App Dev*
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with *DevOps*
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about *DevOps*
 
-- 📫 How to reach me **sayandebmaity8@gmail.com**
+- 📫 How to reach me *sayandebmaity8@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_.sayandeb._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sayandeb._" height="30" width="40" /></a>
+<a href="https://instagram.com/_.sayandeb._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".sayandeb." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
